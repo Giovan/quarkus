@@ -125,7 +125,7 @@
         <mssql-jdbc.version>7.2.1.jre8</mssql-jdbc.version>
         <shrinkwrap.version>1.2.6</shrinkwrap.version>
         <rest-assured.version>3.3.0</rest-assured.version>
-        <junit4.version>4.12</junit4.version>
+        <junit4.version>4.13.1</junit4.version>
         <junit.jupiter.version>5.4.2</junit.jupiter.version>
         <assertj.version>3.12.2</assertj.version>
         <json-smart.version>2.3</json-smart.version>
