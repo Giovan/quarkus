@@ -155,7 +155,7 @@
         <awaitility.version>3.1.6</awaitility.version>
         <jprocesses.version>1.6.5</jprocesses.version>
         <jboss-logmanager.version>1.0.3</jboss-logmanager.version>
-        <jetty.version>9.4.18.v20190429</jetty.version>
+        <jetty.version>11.0.2</jetty.version>
         <flyway.version>5.2.4</flyway.version>
         <yasson.version>1.0.3</yasson.version>
         <!-- Used for integration tests, to make sure webjars work-->
