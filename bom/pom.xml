@@ -160,7 +160,7 @@
         <yasson.version>1.0.3</yasson.version>
         <!-- Used for integration tests, to make sure webjars work-->
         <bootstrap.version>3.1.0</bootstrap.version>
-        <keycloak.version>6.0.1</keycloak.version>
+        <keycloak.version>13.0.0</keycloak.version>
         <subethasmtp.version>3.1.7</subethasmtp.version>
     </properties>
 
